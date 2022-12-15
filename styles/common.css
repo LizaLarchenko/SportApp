@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  background: #f3f6fd;
+  font-family: "Comfortaa", cursive;
+  display: flex;
+  overflow: hidden;
+}
+
+.sidebar {
+  width: 12.352vw;
+  height: 100vh;
+  background: #fbfaff;
+}
+
+.bg-grey {
+  background-color: #fbfaff;
+}
+
+.text-white {
+  color: #23235f !important;
+}
